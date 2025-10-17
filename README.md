@@ -1,4 +1,4 @@
-# P14-Final-Proyect
+# P14-Final-Project
 📊 Proyecto Final – Bootcamp de Análisis de Datos
 Telecomunicaciones, E-commerce y SQL Analytics
 🧩 Descripción general
